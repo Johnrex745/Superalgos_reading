@@ -1,5 +1,5 @@
 # SUPERALGOS OUTGOING AND INCOMING SIGNALS
-
+#readind it
 
 ![image](https://user-images.githubusercontent.com/93773753/184357506-230ef79a-cf45-40f9-a1f8-3b83ace321e1.png)
 
