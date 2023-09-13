@@ -1,4 +1,4 @@
-# Docker Installations
+# Docker Installations #worthing
 
 Docker installations are another avenue that allows for an easy and clean installation of the Superalgos Platform. While a little bit more technical than the packaged applications, it offers the ability to install the platform in a clean and isolated environment. 
 
